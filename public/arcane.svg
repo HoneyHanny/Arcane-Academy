@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="214.77782mm"
+   height="244.71201mm"
+   viewBox="0 0 214.77782 244.71201"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient16"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1a237e;stop-opacity:1;"
+         offset="0"
+         id="stop16" />
+      <stop
+         style="stop-color:#b2237e;stop-opacity:1;"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#42a5f5;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+      <stop
+         style="stop-color:#2819f5;stop-opacity:1;"
+         offset="1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient15"
+       x1="301.58691"
+       y1="376.04822"
+       x2="484.35962"
+       y2="376.04822"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16"
+       id="linearGradient17"
+       x1="301.58691"
+       y1="394.00873"
+       x2="516.36475"
+       y2="394.00873"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-301.58692,-271.65274)">
+    <circle
+       style="fill:none;stroke-width:0.192434"
+       id="circle7"
+       cx="-428.75055"
+       cy="-369.01627"
+       transform="matrix(-0.07466788,-0.99720846,-0.99720846,0.07466788,0,0)"
+       r="209.33134"
+       inkscape:label="larger circle" />
+    <circle
+       style="fill:none;stroke-width:0.149781"
+       id="path1"
+       cx="373.98038"
+       cy="-424.42749"
+       r="162.93335"
+       transform="rotate(93.615408)"
+       inkscape:label="smaller circle" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:5.29167px;fill:#000000;stroke-width:0.5377"
+       id="text3"><textPath
+         xlink:href="#path1"
+         startOffset="50%"
+         id="textPath7"><tspan
+           id="tspan3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';text-align:center;letter-spacing:5.29167px;text-anchor:middle;fill:#000000;stroke-width:0.5377">ARCANE </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';text-align:center;letter-spacing:5.29167px;text-anchor:middle;fill:#000000;stroke-width:0.5377"
+           id="tspan4" /></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:13.2292px;fill:#000000;stroke-width:0.5377"
+       id="text3-8"><textPath
+         xlink:href="#circle7"
+         startOffset="50%"
+         id="textPath8"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';text-align:center;letter-spacing:13.2292px;text-anchor:middle;fill:#000000;stroke-width:0.5377"
+           id="tspan6">ACADEMY</tspan></textPath></text>
+    <g
+       id="g19">
+      <path
+         style="fill:url(#linearGradient17);fill-opacity:1;stroke-width:0.264583"
+         d="m 301.58692,480.44369 c 63.61015,-104.76965 94.1745,-208.79096 94.1745,-208.79096 l 120.6033,175.86336 c 0,0 -53.88153,-2.99342 -98.78283,29.18584 -44.90127,32.17923 -49.39141,39.66279 -49.39141,39.66279"
+         id="path8" />
+      <path
+         style="fill:url(#linearGradient15);fill-opacity:1;stroke-width:0.264583"
+         d="m 301.58692,480.44369 c 107.3889,-73.33874 94.1745,-208.79096 94.1745,-208.79096 l 88.59819,178.29583"
+         id="path9" />
+      <path
+         style="fill:#10469d;fill-opacity:1;stroke-width:0.264583"
+         d="m 388.55856,378.07233 c 41.74537,-2.82625 40.24867,26.35959 41.74537,-2.82625 1.49672,-29.18582 -8.23191,33.67595 -8.23191,33.67595 0,0 -6.73518,-2.99342 2.24507,8.98028 8.98025,11.97366 29.09237,10.77981 0,14.21873 -29.09235,3.4389 -34.55853,-18.46889 -35.21568,-26.98702 -0.65715,-8.51813 -0.54285,-27.06169 -0.54285,-27.06169 z"
+         id="path10" />
+    </g>
+  </g>
+</svg>
