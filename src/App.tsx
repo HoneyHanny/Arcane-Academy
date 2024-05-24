@@ -6,21 +6,19 @@ import Alphabet from './pages/Alphabet'
 import Numbers from './pages/Numbers'
 import Colors from './pages/Colors'
 import Animals from './pages/Animals'
-import AI from './pages/AI'
 
 // To run, run `npm run dev -- --host` command in the terminal
 const App = () => {
   return (
-    <ThemeProvider defaultTheme='light' storageKey='vite-ui-theme'>
+    <ThemeProvider defaultTheme="light" storageKey="vite-ui-theme">
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<Navigate to='home' />} />
-          <Route path='/home' element={<Home />} />
-          <Route path='/alphabet' element={<Alphabet />} />
-          <Route path='/numbers' element={<Numbers />} />
-          <Route path='/colors' element={<Colors />} />
-          <Route path='/animals' element={<Animals />} />
-          <Route path='/ai' element={<AI />} />
+          <Route path="/" element={<Navigate to="home" />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/alphabet" element={<Alphabet />} />
+          <Route path="/numbers" element={<Numbers />} />
+          <Route path="/colors" element={<Colors />} />
+          <Route path="/animals" element={<Animals />} />
         </Routes>
       </BrowserRouter>
     </ThemeProvider>
