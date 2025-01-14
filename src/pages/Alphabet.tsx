@@ -34,8 +34,8 @@ const Alphabet = () => {
   return (
     <>
       <Appbar />
-      <div className="flex sm:p-8 md:p-16 lg:p-24 mt-8 justify-center items-center">
-        <MainCard images={images} dir="alphabet" />
+      <div className='flex sm:p-8 md:p-16 lg:p-24 mt-8 justify-center items-center'>
+        <MainCard images={images} dir='alphabet' />
       </div>
     </>
   )
